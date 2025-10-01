@@ -1,0 +1,11 @@
+C:\Users\sasha\source\repos\WindowsFormsLes5\WindowsFormsLes5\bin\Debug\WindowsFormsLes5.exe.config
+C:\Users\sasha\source\repos\WindowsFormsLes5\WindowsFormsLes5\bin\Debug\WindowsFormsLes5.exe
+C:\Users\sasha\source\repos\WindowsFormsLes5\WindowsFormsLes5\bin\Debug\WindowsFormsLes5.pdb
+C:\Users\sasha\source\repos\WindowsFormsLes5\WindowsFormsLes5\obj\Debug\WindowsFormsLes5.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\WindowsFormsLes5\WindowsFormsLes5\obj\Debug\WindowsFormsLes5.Form1.resources
+C:\Users\sasha\source\repos\WindowsFormsLes5\WindowsFormsLes5\obj\Debug\WindowsFormsLes5.Properties.Resources.resources
+C:\Users\sasha\source\repos\WindowsFormsLes5\WindowsFormsLes5\obj\Debug\WindowsFormsLes5.csproj.GenerateResource.cache
+C:\Users\sasha\source\repos\WindowsFormsLes5\WindowsFormsLes5\obj\Debug\WindowsFormsLes5.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\WindowsFormsLes5\WindowsFormsLes5\obj\Debug\WindowsFormsLes5.exe
+C:\Users\sasha\source\repos\WindowsFormsLes5\WindowsFormsLes5\obj\Debug\WindowsFormsLes5.pdb
+C:\Users\sasha\source\repos\WindowsFormsLes5\WindowsFormsLes5\obj\Debug\WindowsFormsLes5.exe.config
